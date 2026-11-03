@@ -125,5 +125,4 @@ Para un lote de banano de 4 hectáreas y uno de cacao orgánico de 2,5 hectárea
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/2fb7c70b-74d7-45c3-85e5-8f0e4e80d6b8" />
 
 ## Flujo de trabajo con Git
-
 El desarrollo se realizó en la rama `taller-03` y se abrió un pull request hacia `main`. El grupo distribuyó las responsabilidades entre coordinación, desarrollo y revisión de calidad.
