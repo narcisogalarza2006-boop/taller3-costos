@@ -127,3 +127,6 @@ Para un lote de banano de 4 hectáreas y uno de cacao orgánico de 2,5 hectárea
 ## Flujo de trabajo con Git
 
 El desarrollo se realizó en la rama `taller-03` y se abrió un pull request hacia `main`. El grupo distribuyó las responsabilidades entre coordinación, desarrollo y revisión de calidad.
+
+##Honestidad académica
+Cada integrante realiza sus propios commits desde su cuenta de GitHub. El uso de asistentes de inteligencia artificial se declara en el informe del taller
